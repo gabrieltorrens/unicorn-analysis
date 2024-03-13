@@ -1,2 +1,2 @@
 # unicorn-analysis
-A Pandas analysis of Tech unicorns.
+A Pandas and matplotlib analysis of Tech unicorns.
